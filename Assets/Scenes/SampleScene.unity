@@ -1856,6 +1856,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: basketball
       objectReference: {fileID: 0}
+    - target: {fileID: 768992701100166369, guid: 0a0d8f8ffd117da4eb86997f9c6b6159, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 8f709badeaaa9244cb69ff4b26eb6f9a, type: 2}
     - target: {fileID: 768992702222460760, guid: 0a0d8f8ffd117da4eb86997f9c6b6159, type: 3}
       propertyPath: m_InteractionManager
       value: 
@@ -1870,7 +1874,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 947651155946690154, guid: 0a0d8f8ffd117da4eb86997f9c6b6159, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.042
       objectReference: {fileID: 0}
     - target: {fileID: 947651155946690154, guid: 0a0d8f8ffd117da4eb86997f9c6b6159, type: 3}
       propertyPath: m_LocalPosition.z
